@@ -72,6 +72,12 @@ void jgongo2_pkoby2_kseki3() {
            "You can make multiple commmits before pushing to the repository.\n");
 }
 
+void dali21_asale22() {
+  printf("Dowlah Ali and Areeba Saleem\n");
+  printf("We learned how to clone a repository through Replit.\n");
+  printf("We add our code in collab.c and to the repository using Git commands.\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -83,6 +89,8 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
+  dali21_asale22();
+  
 
   return 0;
 }
